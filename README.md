@@ -1,2 +1,2 @@
 # Qt
-Some Qt projects 
+Here you can find some Qt projects I have finished.
